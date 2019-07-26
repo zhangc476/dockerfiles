@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-apiserver:v1.12.2
+FROM kubernetesui/dashboard:v2.0.0-beta2
