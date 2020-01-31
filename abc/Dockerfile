@@ -1,1 +1,1 @@
-FROM kubernetesui/dashboard:v2.0.0-beta2
+FROM gcr.io/kubernetes-helm/tiller:v2.16.1
