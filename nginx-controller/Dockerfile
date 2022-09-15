@@ -1,0 +1,1 @@
+FROM k8s.gcr.io/ingress-nginx/controller:v0.49.3@sha256:35fe394c82164efa8f47f3ed0be981b3f23da77175bbb8268a9ae438851c8324
